@@ -1,0 +1,38 @@
+[
+  {
+    "featureType": "road.highway",
+    "elementType": "geometry.stroke",
+    "stylers": [
+      {
+        "color": "#ff3d3d"
+      },
+      {
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "featureType": "road.highway",
+    "elementType": "labels.text",
+    "stylers": [
+      {
+        "color": "#ff3d3d"
+      },
+      {
+        "visibility": "on"
+      }
+    ]
+  },
+  {
+    "featureType": "transit.station.bus",
+    "elementType": "labels.text",
+    "stylers": [
+      {
+        "color": "#3dff81"
+      },
+      {
+        "weight": 3
+      }
+    ]
+  }
+]
